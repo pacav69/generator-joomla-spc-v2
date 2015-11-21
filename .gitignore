@@ -77,3 +77,4 @@ $RECYCLE.BIN/
 *.komodoproject
 *.sublime-project
 *.sublime-workspace
+.vscode
