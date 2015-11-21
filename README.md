@@ -59,7 +59,7 @@ or
 To install generator-joomla-spcv2 from npm, run:
 
 ```
-$ npm install -g generator-joomla-spc
+$ npm install -g generator-joomla-spcv2
 ```
 
 Finally, initiate the generator:
