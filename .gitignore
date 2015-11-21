@@ -73,3 +73,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+*.komodoproject
+*.sublime-project
+*.sublime-workspace
