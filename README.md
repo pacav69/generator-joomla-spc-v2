@@ -128,3 +128,13 @@ Information on how to use sub-generators can be found by using:
 
 ## License
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+
+
+
+## Support
+
+<img src="https://vangogh.teespring.com/v3/image/SugZ-DRGZXUTuSzfrFtaOU3TAUQ/800/800.jpg" width="100px"  height="100px">
+
+[Help support by buying some merchandise](https://cavtronics-3.creator-spring.com/)
+
+
